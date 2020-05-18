@@ -1,11 +1,14 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve Playboard
 title: ''
 labels: bug
 assignees: ''
 
 ---
+
+**Affected Game**
+Specify which game is affected by this by issue. If this issue is a site-wide issue, you don't need to specify a specific game
 
 **Describe the bug**
 A clear and concise description of what the bug is.
